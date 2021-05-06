@@ -1,9 +1,9 @@
 # BlocNotes
 
 
-1- npm start
-
-2- Enjoy !
+1- npm install
+2- npm start
+3- Enjoy !
 
 
 
