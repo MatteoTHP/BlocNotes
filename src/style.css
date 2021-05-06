@@ -1,0 +1,17 @@
+.notelist{
+  float: left;
+  background-color: rgb(158, 158, 158);
+  border: solid black;
+  height: 550px;
+  width: 220px;
+  color: white;
+}
+.theright{
+  float: right;
+  height: 550px;
+}
+.centre{
+  margin-top: 10px;
+  margin-left: 60px;
+
+}
