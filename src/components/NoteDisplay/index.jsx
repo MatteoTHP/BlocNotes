@@ -2,7 +2,7 @@ import React from 'react';
 import MarkdownView from 'react-showdown';
 
 const NoteDisplay = (props) => {
-  
+  console.log(props)
   return (
     <div>
       <p>{props.title}</p>

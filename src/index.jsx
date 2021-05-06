@@ -16,7 +16,8 @@ const App = () =>  {
   const handleContentChange = (newContent) => {
     setContent(newContent)
   };
-
+  const test = localStorage.key(0)
+  console.log(test)
   return (
   <div className="card-columns">
     <p>Bloc Notes !!!  ...?</p>
